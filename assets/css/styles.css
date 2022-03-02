@@ -383,3 +383,26 @@ footer {
     }
 }
 
+@media screen and (max-width: 420px) {
+  .hero img {
+    height: 23rem;
+    width: 23rem;
+  }
+
+  .bio {
+    width: 17rem;
+  }
+
+  .project-container {
+    width: 17rem;
+  }
+
+  .contact-form-container {
+    max-width: 17rem;
+  }
+
+  .socicon {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}
