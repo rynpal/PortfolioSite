@@ -188,8 +188,8 @@ nav ul li {
 }
 
 .project-pic {
-  width: 65%;
-  height: 60%;
+  width: 15rem;
+  height: 15rem;
 }
 
 .projects-container {
@@ -206,6 +206,7 @@ nav ul li {
 .project-container {
   text-align: center;
   width: 33rem;
+  min-height: 30rem;
   padding: 1rem;
 }
 
