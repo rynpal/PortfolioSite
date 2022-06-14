@@ -188,8 +188,8 @@ nav ul li {
 }
 
 .project-pic {
-  width: 15rem;
-  height: 15rem;
+  width: 13rem;
+  height: 13rem;
 }
 
 .projects-container {
@@ -216,6 +216,7 @@ nav ul li {
 
 .project-title {
   margin-bottom: var(--bottom-margin);
+  color: var(--primary-color);
 }
 
 .project-details {
